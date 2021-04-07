@@ -1,0 +1,49 @@
+#PressKit {
+  color: white;
+  font-family: 'Roboto',sans-serif;
+  letter-spacing: 1px;
+
+}
+
+#PressLinks {
+  padding-bottom: 20px;
+  padding-top: 20px;
+  font-size: 20px;
+
+}
+
+#PressLinks a:hover, a:active, a:focus {
+  text-decoration: none;
+  color: white;
+  border-bottom: none;
+
+}
+
+#PressLinks a {
+  border-bottom: 1px solid grey;
+  color: white;
+  text-decoration: none;
+
+}
+
+#screenshots {
+  display: block;
+
+}
+
+#screenshots img {
+  float: left;
+  margin-right: 20px;
+  width: 215px;
+  height: 443.75px;
+  padding-bottom: 20px;
+
+}
+
+#icon img {
+  float: left;
+  width: 200px;
+  height: 190px;
+  padding-right: 20px;
+
+}

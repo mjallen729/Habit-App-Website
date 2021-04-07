@@ -1,0 +1,166 @@
+/*-- ANYWHERE --*/
+
+  * {
+    background-color: #131313;
+
+  }
+
+  body {
+    font-family: 'Roboto',sans-serif;
+
+  }
+
+  #SiteHead a, a:hover, a:active, a:visited, a:focus {
+    text-decoration: none;
+    color: white;
+
+  }
+
+  .tab {
+    text-indent: 40px;
+    color: grey;
+
+  }
+
+/*-- END --*/
+
+#SiteHead {
+  text-align: center;
+  color: white;
+  font-family: 'Lato',sans-serif;
+  padding-bottom: 20px;
+
+}
+
+#Slideshow {
+  text-align: center;
+
+}
+
+#CallActn {
+  text-align: center;
+  color: white;
+  font-family: 'Roboto',sans-serif;
+  font-size: 24px;
+  padding-top: 25px;
+
+}
+
+#CallRow {
+  padding-bottom: 10px;
+
+}
+
+#AndroidDown img {
+  float: right;
+  width: 150px;
+  height: 75px;
+  padding: 0px;
+
+}
+
+#AppleDown img {
+  float: left;
+  width: 150px;
+  height: 75px;
+
+}
+
+#CallActn p {
+  margin: 0px;
+
+}
+
+#SiteFoot ul {
+  list-style-type: none;
+  text-align: center;
+  padding-top: 20px;
+  padding-left: 0px;
+  font-family: inherit;
+  font-size: 15px;
+
+}
+
+#SiteFoot li {
+  display: inline;
+
+}
+
+#SiteFoot a, a:hover, a:active, a:visited, a:focus {
+  color: grey;
+
+}
+
+#SiteFoot a {
+  padding: 8px;
+
+}
+
+#Contact {
+  color: white;
+  font-family: 'Roboto',sans-serif;
+
+}
+
+#AndroidMail {
+  color: white;
+  text-align: center;
+  font-family: 'Roboto',sans-serif;
+  padding-top: 100px;
+
+}
+
+#Title1 {
+  font-size: 35px;
+  letter-spacing: 1px;
+
+}
+
+#Title2 {
+  font-size: 25px;
+  letter-spacing: .5px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+
+}
+
+#AndroidForm {
+  text-align: center;
+
+}
+
+#field_0 {
+  color: grey;
+  height: 45px;
+  text-decoration: none solid;
+  word-break: break-word;
+  column-rule-color: rgb(34, 34, 34);
+  caret-color: grey;
+  border: 2px solid rgb(201, 201, 201);
+  border-color: grey;
+  border-radius: 50px 50px 50px 50px;
+  font: normal normal 400 normal 30px / 18px "Roboto", sans-serif;
+  outline: rgb(34, 34, 34) none 0px;
+  background-color: transparent;
+  text-align: center;
+
+}
+
+#inputSub {
+  color: #bebebe;
+  float: center;
+  height: 40px;
+  min-width: inherit;
+  max-width: 400px;
+  width: 100%;
+  letter-spacing: 0.5px;
+  text-align: center;
+  text-decoration: none solid rgb(255, 255, 255);
+  vertical-align: middle;
+  background-image: linear-gradient(to bottom right, #34416C, #131A38);
+  border: 0px none rgb(255, 255, 255);
+  border-radius: 50px 50px 50px 50px;
+  font: normal normal 300 normal 18px / 27px 'Roboto';
+  overflow: hidden;
+
+}
